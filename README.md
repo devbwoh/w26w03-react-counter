@@ -1,3 +1,18 @@
+# 웹 서버 프로그래밍 2026
+
+# Week 03. React 카운터
+
+https://nano5.notion.site/React-Counter-2a6daf211d4283259135814d89752624
+
+<img width="640" alt="image" src="https://github.com/user-attachments/assets/b156715b-6fa9-462a-875a-873575237d0e" />
+
+---
+
+https://devbwoh.github.io/w26w03-react-counter/
+
+<img width="640" alt="image" src="https://github.com/user-attachments/assets/54169a3d-aa7c-4e6e-80c5-d38c2e5622ee" />
+
+---
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
