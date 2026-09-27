@@ -2,7 +2,7 @@
 
 # Week 03. React 카운터
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Live_Demo-3178C6?style=for-the-badge&logo=github&logoColor=white)]([https://devbwoh.github.io/w26w03-react-counter/](https://devbwoh.github.io/w26w03-react-counter/))
+[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Live_Demo-3178C6?style=for-the-badge&logo=github&logoColor=white)](https://devbwoh.github.io/w26w03-react-counter/)
 
 https://nano5.notion.site/React-Counter-2a6daf211d4283259135814d89752624
 
